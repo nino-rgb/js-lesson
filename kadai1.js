@@ -13,17 +13,6 @@
 // }
 
 
-// const num1 = 1 + 2; // 足し算
-// const num2 = 3 - 1; // 引き算
-// const num3 = 2 * 3; // かけ算
-// const num4 = 6 / 2; // 割算
-// const num5 = 5 % 2; // あまり
-
-// console.log(num1);
-// console.log(num2);
-// console.log(num3);
-// console.log(num4);
-// console.log(num5);
 
 //課題２
 
@@ -115,8 +104,3 @@
 //   }
 // }
 
-
-for (let i = 1; i < 10; i++) {
-  const foo6 = i * 1;
-  console.log(foo6);
-}
