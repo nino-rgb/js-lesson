@@ -84,17 +84,14 @@
 
 
 
-for (let i = 1; i < 10; i++) {
-  const a = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-  const aa = [];
-  for (const num of a) {
-    aa.push(num * i);
-  }
-  console.log(aa);
-}
-
-
-
+// for (let i = 1; i < 10; i++) {
+//   const a = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+//   const aa = [];
+//   for (const num of a) {
+//     aa.push(num * i);
+//   }
+//   console.log(aa);
+// }
 
 
 
@@ -118,3 +115,8 @@ for (let i = 1; i < 10; i++) {
 //   }
 // }
 
+
+for (let i = 1; i < 10; i++) {
+  const foo6 = i * 1;
+  console.log(foo6);
+}
